@@ -1,0 +1,22 @@
+{
+  "name": "betacode-theme",
+  "displayName": "BetaCode theme",
+  "description": "A minimal theme that comes in darK",
+  "version": "1.0.0",
+  "publisher": "betacode-theme",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "betacode-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/betacode-theme-color-theme.json"
+      }
+    ]
+  }
+}
