@@ -2,7 +2,7 @@
   "name": "betacode-theme",
   "displayName": "BetaCode theme",
   "description": "A minimal theme that comes in darK",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "icon": "icon.png",
   "publisher": "betacode-theme",
   "engines": {
