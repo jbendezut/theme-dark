@@ -6,8 +6,8 @@
     "activityBar.background": "#0c0606",
     "sideBar.background": "#0c0606",
     "sideBar.foreground": "#666a7e",
-		"sideBar.border": "#ff7b00",
-		"activityBar.border": "#ff7b00",
+		"sideBar.border": "#A6ACCD",
+		"activityBar.border": "#A6ACCD",
     "editorLineNumber.foreground": "#4E5579",
 		"editor.lineHighlightBackground": "#262c31", //color de posición
     "editor.selectionBackground": "#455277",
