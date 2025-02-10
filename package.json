@@ -3,6 +3,7 @@
   "displayName": "BetaCode theme",
   "description": "A minimal theme that comes in darK",
   "version": "1.0.0",
+  "icon": "icon.png",
   "publisher": "betacode-theme",
   "engines": {
     "vscode": "^1.97.0"
